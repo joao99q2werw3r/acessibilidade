@@ -3,9 +3,9 @@
   --bg-color: #d2e6fa;
   --text-color: #212529;
   --card-bg: #ffffff;
-  --warning-color: #ffc107;
-  --danger-color: #dc3545;
-  --success-color: #28a745;
+  --warning-color: #ffd453;
+  --danger-color: #e03535;
+  --success-color: #4bb664;
 }
 
 * {
